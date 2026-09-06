@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy continous learning and emerging technolo
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** This project involved refactoring a chaotic dataset of 23 messy, disconnected tables into a clean, performant Star Schema. By applying professional modeling standards, including data cleaning with Power Query. and developing core business measures via DAX, the project ensured data integrity and scalability for analytics. Key outcomes included implementing Row Level Security (RLS) for controlled access.And optimizing performance by purging unnecessary source data  
+- **Nightmare Data to Star Schema Transformation:** This project involved refactoring a chaotic dataset of 23 messy, disconnected tables into a clean, performant Star Schema. By applying professional modeling standards, including data cleaning with Power Query. and developing core business measures via DAX, the project ensured data integrity and scalability for analytics. Key outcomes included implementing Row Level Security (RLS) for controlled access.And optimizing performance by purging unnecessary source data  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
